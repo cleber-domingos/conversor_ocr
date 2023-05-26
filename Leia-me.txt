@@ -1,0 +1,3 @@
+Extraia o Tesseract-OCR, na raiz do app.
+
+Execute o setuo_app_ocr.iss para criar o instalador do APP_OCR, pode executar com o Inno Setup
